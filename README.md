@@ -28,8 +28,9 @@ Additional Resources
 Altair Documentation
 Pandas Documentation
 Geopandas Documentation
+Numpy Documentation
 Contributing
 If you wish to contribute to this project, please create a pull request with a detailed description of the changes.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache License - see the LICENSE file for details.
