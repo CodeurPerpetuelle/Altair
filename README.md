@@ -39,5 +39,3 @@ If you wish to contribute to this project, please create a pull request with a d
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 ```
-
-This `README.md` file now includes the correct license information and is formatted appropriately.
