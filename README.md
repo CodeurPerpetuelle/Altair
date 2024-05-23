@@ -1,6 +1,4 @@
 
-
-```markdown
 # Altair for Visualization using Jupyter Notebook in Python
 
 This project demonstrates how to use the Altair library for creating visualizations in Python within Jupyter Notebooks. The focus is on visualizing COVID-19 data through various types of charts and maps.
