@@ -1,3 +1,6 @@
+
+
+```markdown
 # Altair for Visualization using Jupyter Notebook in Python
 
 This project demonstrates how to use the Altair library for creating visualizations in Python within Jupyter Notebooks. The focus is on visualizing COVID-19 data through various types of charts and maps.
@@ -24,13 +27,19 @@ This project demonstrates how to use the Altair library for creating visualizati
 #### Step 5: Create an Interactive Visualization in Altair
 #### Step 6: Create a Geographical Choropleth Map
 
-Additional Resources
-Altair Documentation
-Pandas Documentation
-Geopandas Documentation
-Numpy Documentation
-Contributing
+## Additional Resources
+
+- [Altair Documentation](https://altair-viz.github.io/)
+- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+- [Geopandas Documentation](https://geopandas.org/)
+
+## Contributing
+
 If you wish to contribute to this project, please create a pull request with a detailed description of the changes.
 
-License
-This project is licensed under the Apache License - see the LICENSE file for details.
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+```
+
+This `README.md` file now includes the correct license information and is formatted appropriately.
