@@ -18,6 +18,11 @@ This project demonstrates how to use the Altair library for creating visualizati
 ### Steps Overview
 
 #### Step 1: Import and Install Required Libraries and Packages
+#### Step 2: Setting Directory and Reading File
+#### Step 3: Subsetting Dataset
+#### Step 4: Create a Bar Chart Visualization in Altair
+#### Step 5: Create an Interactive Visualization in Altair
+#### Step 6: Create a Geographical Choropleth Map
 
 Additional Resources
 Altair Documentation
